@@ -270,11 +270,11 @@ section {
     font-size: 32px;
     font-weight: 400px;
   }
-  .nav-bar .open {
+  .nav-bar.open {
     left: 0;
   }
 }
-@media (max-width: 850px) {
+@media (max-width: 500px) {
   :root {
     --big-font: 48px;
     --p-font: 15px;
